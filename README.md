@@ -1,6 +1,7 @@
 - Hey, I’m Adam.
+- A Professional Graphic Designer with a strong interest in development.
 - I enjoy Front-End Development and creating beautiful designs that speak to people visually.
-- I'd like to learn more about React.js and always wanting to learn as much as I can in any coding language...
+
 
 <!---
 Bucket-Front-End/Bucket-Front-End is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
