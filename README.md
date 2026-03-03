@@ -2,7 +2,7 @@
 
 Senior Front-End Developer
 
-I lead infrastructure, development, and platform strategy for 60+ WordPress properties — from server migrations and PHP upgrades to custom plugins and performance hardening.
+I lead infrastructure, development, and platform strategy for 60+ WordPress properties, from server migrations and PHP upgrades to custom plugins and performance hardening.
 
 I specialize in:
 • Scalable WordPress architecture  
