@@ -1,6 +1,16 @@
-- Hey, I’m Adam.
-- A Professional Graphic Designer with a strong interest in development.
-- I enjoy Front-End Development and creating beautiful designs that speak to people visually.
+## Hey, I’m Adam.
+
+Senior Front-End Developer
+
+I lead infrastructure, development, and platform strategy for 60+ WordPress properties — from server migrations and PHP upgrades to custom plugins and performance hardening.
+
+I specialize in:
+• Scalable WordPress architecture  
+• Custom plugin development (GA4 dashboards, monitoring tools, integrations)  
+• Design systems that actually ship  
+• Turning chaotic builds into maintainable platforms  
+
+I care about performance, process, and building things the right way — not just making them look good.
 
 
 <!---
