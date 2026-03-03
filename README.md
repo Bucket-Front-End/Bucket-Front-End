@@ -10,7 +10,7 @@ I specialize in:
 • Design systems that actually ship  
 • Turning chaotic builds into maintainable platforms  
 
-I care about performance, process, and building things the right way — not just making them look good.
+I care about performance, process, and building things the right way. Not just making them look good.
 
 
 <!---
