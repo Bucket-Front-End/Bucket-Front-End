@@ -1,5 +1,7 @@
 ## Hey, I’m Adam.
 
+Tech: WordPress, PHP, JavaScript, GA4 APIs, MySQL, server infrastructure, performance optimization
+
 Senior Front-End Developer
 
 I lead infrastructure, development, and platform strategy for 60+ WordPress properties, from server migrations and PHP upgrades to custom plugins and performance hardening.
